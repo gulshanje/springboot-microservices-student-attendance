@@ -1,0 +1,6 @@
+.vscode
+target
+.mvn
+notes.txt
+docker-compose.yml
+Dockerfile
